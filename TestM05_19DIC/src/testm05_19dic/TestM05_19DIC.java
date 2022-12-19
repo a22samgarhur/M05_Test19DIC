@@ -18,6 +18,11 @@ public class TestM05_19DIC {
         
        //Primera prueba
         //Probando desde GitHub
+       int i = 0;
+       
+       while (i<10){
+           System.out.println("La i val: "+i);
+       }
     }
     
 }
